@@ -1,2 +1,0 @@
-# Animated_Calculator
- 
